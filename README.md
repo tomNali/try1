@@ -1,4 +1,11 @@
 # try1
 
 
-helolo woerrld
+## Hello World!
+
+
+### GET UPDATE
+git fetch
+git pull
+
+# SET UPDATE
