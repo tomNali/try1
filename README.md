@@ -8,4 +8,7 @@
 git fetch
 git pull
 
-# SET UPDATE
+### SET UPDATE
+git add .
+git commit -m "ANY MESSAGE"
+git push
